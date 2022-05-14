@@ -2,7 +2,7 @@
 Deep Learning to reduce recycling contamination
 
 **IMPORTANT**
-Once pulled the repository to your computer, there is a large file that needs to be downloaded from https://deakin365-my.sharepoint.com/:v:/g/personal/gupei_deakin_edu_au/Ee_VMIFBp7lPm71m-O5tvT0BecdhDssfBBLh4LqxF4g9OA?e=jcvnjF, and put it into this project folder.
+Once pulled the repository to your computer, there is a large file that needs to be downloaded from https://deakin365-my.sharepoint.com/:u:/g/personal/gupei_deakin_edu_au/EUq5ikpBaRdOgCnrLRycQU8BJCtUuTZRrZGYk7k3Mfunrw?e=lGyVb7, and put it into this project folder.
 
 **1. Setup the development environment**
 
