@@ -39,3 +39,6 @@ requirements:
   - #streamlit run app.py
   
   it will automatically redirect to the browser
+
+<img width="1179" alt="Screen Shot 2022-05-14 at 21 18 26" src="https://user-images.githubusercontent.com/87626621/168423476-8dfbf636-0688-4a43-aaa6-fbee9a5a9a77.png">
+
