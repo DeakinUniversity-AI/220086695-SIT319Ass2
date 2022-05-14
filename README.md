@@ -6,32 +6,32 @@ requirements:
 - Anaconda
 - setup web_app environment
 - activate web_app
-- pip install
-      streamlit
-      pickle
-      numpy
-      pandas
-      matplotlib
-      tensorflow
-      tensorflow_datasets
-      cv2
-      PIL
-      random
-      keras_preprocessing
-      packaging
-      datetime
-      time
+- #pip install
+      streamlit,
+      pickle,
+      numpy,
+      pandas,
+      matplotlib,
+      tensorflow,
+      tensorflow_datasets,
+      cv2,
+      PIL,
+      random,
+      keras_preprocessing,
+      packaging,
+      datetime,
+      time,
       os
   
   Further for large files on GitHub
-  - brew install git-lfs
-  - git lfs install
-  - git lfs track "*.pkl"
+  - #brew install git-lfs
+  - #git lfs install
+  - #git lfs track "*.pkl"
   
   
   
   **2. Run streamlit to serve the web app**
   run the command below in command line
-  #streamlit run app.py
+  - #streamlit run app.py
   
   it will automatically redirect to the browser
