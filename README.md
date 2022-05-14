@@ -2,6 +2,7 @@
 Deep Learning to reduce recycling contamination
 
 **1. Setup the development environment**
+
 requirements:
 - Anaconda
 - setup web_app environment
@@ -29,8 +30,8 @@ requirements:
   - #git lfs track "*.pkl"
   
   
-  
-  **2. Run streamlit to serve the web app**
+**2. Run streamlit to serve the web app**
+
   run the command below in command line
   - #streamlit run app.py
   
